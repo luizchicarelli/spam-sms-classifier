@@ -155,7 +155,7 @@ A aplicação abre no navegador (`http://localhost:8501`). Basta digitar uma men
 
 ## 🌐 Link do app publicado
 
-👉 **`<preencher com o link do Streamlit Community Cloud>`**
+👉 **https://spam-sms-classifier-grupo5.streamlit.app/**
 
 ---
 
