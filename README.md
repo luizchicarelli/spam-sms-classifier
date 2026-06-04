@@ -12,7 +12,7 @@ Sistema de classificação que identifica automaticamente se uma mensagem SMS é
 |------|----|
 | Luiz Henrique Soares Chicareli de Andrade | 2035693 |
 | Gabriel Almeida Ermenegildo | (2028344) |
-| Enzo Luiz Tsutsumi de Almeida José | (2027602) |
+| Enzo Luiz Tsutsumi de Almeida José | 2027602 |
 
 > **Grupo:** 5
 
